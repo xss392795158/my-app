@@ -1,3 +1,9 @@
+## Start
+ step1: npm install
+ step2: npm start
+
+## 实现效果：点击居中，再次点击翻转
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
