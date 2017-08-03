@@ -1,5 +1,5 @@
 ## Start
- step1: npm install
+ step1: npm install<br>
  step2: npm start
 
 ## 实现效果：点击居中，再次点击翻转
